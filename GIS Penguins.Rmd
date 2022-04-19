@@ -1,0 +1,32 @@
+---
+title: "GIS"
+author: "Shani Fourie"
+date: "17/04/2022"
+output: html_document
+---
+
+
+
+
+```{r}
+
+
+ctv::install.views("Spatial", coreOnly = TRUE)
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
