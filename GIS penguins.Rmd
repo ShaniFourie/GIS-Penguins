@@ -21,6 +21,8 @@ marine=st_read("SAMPAZ_OR_2021_Q4.shp")
 
 ```
 
+The source for the corrupt file: https://egis.environment.gov.za/data_egis/data_download/current
+
 
 Plotting the marine protected areas of SA. 
 ```{r}
