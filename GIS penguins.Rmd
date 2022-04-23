@@ -276,4 +276,4 @@ To visualize the legend of the marine protected areas, click on the provided lin
 http://127.0.0.1:38319/graphics/plot_zoom_png?width=1140&height=785
 
 
->>>>>>> 0c67fed7910ed61819df7ebdf21cb46ff2179a72
+
